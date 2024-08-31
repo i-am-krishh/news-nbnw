@@ -16,7 +16,7 @@ To install and run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/i-am-krishh/news-app.git
+   git clone https://github.com/i-am-krishh/news-nbnw.git
 
 2. **Navigate to the project directory:**
    ```bash
@@ -31,7 +31,7 @@ To install and run this project locally, follow these steps:
 **If you want to change anything**
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/i-am-krishh/news-app.git
+   git clone https://github.com/i-am-krishh/news-nbnw.git
 
 2. **Navigate to the project directory:**
    ```bash
